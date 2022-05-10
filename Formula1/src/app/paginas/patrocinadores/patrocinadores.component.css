@@ -1,0 +1,11 @@
+.card{margin-top:20px;border-right:5px solid #fccb48;}
+#topline{background-color:#32bcb8;}
+section {
+    padding: 60px 0;
+}
+section .section-title {
+    text-align: center;
+    color: #8E8E8E;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
